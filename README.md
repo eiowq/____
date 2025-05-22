@@ -1,4 +1,5 @@
 
+
 <html lang="ar">
 <head>
 <meta charset="UTF-8" />
@@ -122,21 +123,16 @@
 </div>
 
 <div class="social-icons">
-  <a href="https://facebook.com" target="_blank" aria-label="Facebook">
+  <a href="https://www.facebook.com/ahmdtarq.bd.alm.bwd?locale=ar_AR" target="_blank" aria-label="Facebook">
     <i class="fab fa-facebook-f"></i>
   </a>
-  <a href="https://twitter.com" target="_blank" aria-label="Twitter">
-    <i class="fab fa-twitter"></i>
+ 
+
   </a>
-  <a href="https://instagram.com" target="_blank" aria-label="Instagram">
+  <a href="https://www.instagram.com/ahmed_tarek_772/" target="_blank" aria-label="Instagram">
     <i class="fab fa-instagram"></i>
   </a>
-  <a href="https://linkedin.com" target="_blank" aria-label="LinkedIn">
-    <i class="fab fa-linkedin-in"></i>
-  </a>
-  <a href="https://youtube.com" target="_blank" aria-label="YouTube">
-    <i class="fab fa-youtube"></i>
-  </a>
+
 </div>
 
 <script type="module">
